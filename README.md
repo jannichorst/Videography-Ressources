@@ -6,7 +6,7 @@ This is literally just a collection of video related tools I find interesting.
 - [D-ID](https://www.d-id.com/creative-reality-studio/) - Video avatar creation
 - [Opus Clip](https://www.opus.pro) - Auto clip generator from longfrom video
 - [Ebsynth](https://ebsynth.com) - Video Style transfer (local client)
-- [Colourlab.AI](https://colourlab.ai) - AI color grading plugin (paid)
+- [Colourlab.AI](https://colourlab.ai) - AI color grading plugin (paid only)
 
 # Image Generation
 - [Midjourney](https://www.midjourney.com) - AI image generator
@@ -38,7 +38,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Tome.app](https://tome.app/ai) - Storytelling
 
 # Editing
-- [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro
+- [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro (paid only)
 
 
   
