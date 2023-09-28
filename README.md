@@ -1,4 +1,5 @@
 # Videography Knowledge Base
+This is literally just a collection of video related tools I find interesting.
 
 # AI Tools
 - [RunwayML](https://runwayml.com)
