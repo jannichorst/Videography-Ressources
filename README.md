@@ -9,6 +9,7 @@
 
 ## Image Generation
 - [Midjourney](https://www.midjourney.com) - AI image generator
+- [Civit.AI](https://civitai.com) - Stable Diffusion Model & LORA Database
 
 # VFX
 - [Move.Ai](https://www.move.ai) - Motion capture from video
