@@ -8,7 +8,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Ebsynth](https://ebsynth.com) - Video Style transfer (local client)
 - [Colourlab.AI](https://colourlab.ai) - AI color grading plugin (paid)
 
-## Image Generation
+# Image Generation
 - [Midjourney](https://www.midjourney.com) - AI image generator
 - [Civit.AI](https://civitai.com) - Stable Diffusion Model & LORA Database
 
@@ -19,7 +19,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Eyecandy](https://eycndy.co) - Film techniques database
 - [Boords](https://boords.com) - Storyboard tool (paid only)
 
-## Shot-Databse
+# Shot-Databse
 - [Film-Grab](https://film-grab.com)
 - [Film.AI](https://beta.flim.ai) 
 - [Shot.Cafe](https://shot.cafe)
