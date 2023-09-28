@@ -37,8 +37,8 @@ This is literally just a collection of video related tools I find interesting.
 - [TV-Tropes](https://tvtropes.org) - Collects and documents descriptions and examples of plot conventions and devices
 - [Tome.app](https://tome.app/ai) - Storytelling
 
-  # Editing
-  - [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro
+# Editing
+- [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro
 
 
   
