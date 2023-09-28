@@ -31,7 +31,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Soundraw.io](https://soundraw.io) - AI music genreation
 
 # Motion Graphics
-- [Jitter](https://jitter.video)
+- [Jitter](https://jitter.video) - Webbased Motion Graphics Tool
 
 # Others
 - [TV-Tropes](https://tvtropes.org) - Collects and documents descriptions and examples of plot conventions and devices
