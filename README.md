@@ -19,7 +19,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Eyecandy](https://eycndy.co) - Film techniques database
 - [Boords](https://boords.com) - Storyboard tool (paid only)
 
-# Shot-Databse
+# Shot-Database
 - [Film-Grab](https://film-grab.com)
 - [Film.AI](https://beta.flim.ai) 
 - [Shot.Cafe](https://shot.cafe)
