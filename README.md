@@ -7,6 +7,7 @@ This is literally just a collection of video related tools I find interesting.
 - [Opus Clip](https://www.opus.pro) - Auto clip generator from longfrom video
 - [Ebsynth](https://ebsynth.com) - Video Style transfer (local client)
 - [Colourlab.AI](https://colourlab.ai) - AI color grading plugin (paid only)
+- [Descript](https://www.descript.com) - Multplie features including gaze adjustment. 
 
 # Image Generation
 - [Midjourney](https://www.midjourney.com) - AI image generator
