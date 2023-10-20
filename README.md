@@ -5,6 +5,7 @@ This is literally just a collection of video related tools I find interesting.
 - [RunwayML](https://runwayml.com)
 - [D-ID](https://www.d-id.com/creative-reality-studio/) - Video avatar creation
 - [Opus Clip](https://www.opus.pro) - Auto clip generator from longfrom video
+- [Klap.app](https://klap.app/) - Auto viral clip generator based on GPT4
 - [Ebsynth](https://ebsynth.com) - Video Style transfer (local client)
 - [Colourlab.AI](https://colourlab.ai) - AI color grading plugin (paid only)
 - [Descript](https://www.descript.com) - Multplie features including gaze adjustment. 
