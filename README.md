@@ -43,5 +43,8 @@ This is literally just a collection of video related tools I find interesting.
 - [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro (paid only)
 
 
+# Repositories
+- [Sad Talker](https://sadtalker.github.io/) - Generate video from input image and audio (Automatic1111 Plugin)
+
   
 
