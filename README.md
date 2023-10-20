@@ -44,7 +44,7 @@ This is literally just a collection of video related tools I find interesting.
 
 
 # Repositories
-- [Sad Talker](https://sadtalker.github.io/) - Generate video from input image and audio (Automatic1111 Plugin)
+- [Sad Talker](https://github.com/OpenTalker/SadTalker) - Generate video from input image and audio (Automatic1111 Plugin) 
 
   
 
