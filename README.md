@@ -38,6 +38,7 @@ Just a collection of video related tools I find interesting.
 # Others
 - [TV-Tropes](https://tvtropes.org) - Collects and documents descriptions and examples of plot conventions and devices
 - [Tome.app](https://tome.app/ai) - Storytelling
+- [F-Spy](https://fspy.io/) - estimation of lense and focal properties of the lense used for a shot
 
 # Editing
 - [AutoPod](https://www.autopod.fm/) - Auto multicam podcast editing plugin for Premiere Pro (paid only)
